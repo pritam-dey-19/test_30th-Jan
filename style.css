@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(134, 134, 121);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+input,
+label,
+button {
+  padding: 7px;
+  margin: 5px;
+  box-shadow: 0 0 5px blueviolet;
+  border-radius: 17px blue dot;
+}
+button:hover {
+  color: rgb(17, 10, 14);
+}
+label:hover {
+  color: cyan;
+}
+input:hover {
+  color: cyan;
+}
